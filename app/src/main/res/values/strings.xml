@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BioApp</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="school">School</string>
+    <string name="gradYear">Graduation Year</string>
+    <string name="degreeType">Degree</string>
+    <string-array name="degree">
+        <item>A.A.</item>
+        <item>A.S.</item>
+        <item>B.A.</item>
+        <item>B.S.</item>
+        <item>M.A.</item>
+        <item>M.S.</item>
+        <item>Doctorate</item>
+    </string-array>
+    <string name="major">Major</string>
+    <string name="hobby">Hobbies</string>
+</resources>
